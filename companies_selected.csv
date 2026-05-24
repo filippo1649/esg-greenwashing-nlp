@@ -1,0 +1,18 @@
+Name,Sector,Total ESG Risk score,ESG Risk Level,Controversy Level
+"Hasbro, Inc.",Consumer Cyclical,7.1,Negligible,Moderate Controversy Level
+"Keysight Technologies, Inc.",Technology,7.6,Negligible,Low Controversy Level
+"Cbre Group, Inc.",Real Estate,8.0,Negligible,Low Controversy Level
+Cdw Corporation,Technology,9.2,Negligible,None Controversy Level
+Accenture Plc,Technology,9.8,Negligible,Moderate Controversy Level
+"Global Payments, Inc.",Industrials,20.9,Medium,Low Controversy Level
+D.R. Horton Inc.,Consumer Cyclical,21.0,Medium,Moderate Controversy Level
+"Cboe Global Markets, Inc.",Financial Services,21.0,Medium,Low Controversy Level
+Intuitive Surgical Inc.,Healthcare,21.1,Medium,Low Controversy Level
+"Marsh & Mclennan Companies, Inc.",Financial Services,21.1,Medium,Moderate Controversy Level
+"General Mills, Inc.",Consumer Defensive,21.1,Medium,Moderate Controversy Level
+Transdigm Group Incorporated,Industrials,38.7,High,Moderate Controversy Level
+Apa Corporation,Energy,38.8,High,Moderate Controversy Level
+Boeing Company,Industrials,39.6,High,High Controversy Level
+General Electric Company,Industrials,40.5,Severe,Significant Controversy Level
+Exxon Mobil Corporation,Energy,41.6,Severe,Significant Controversy Level
+Occidental Petroleum Corporation,Energy,41.7,Severe,Moderate Controversy Level
